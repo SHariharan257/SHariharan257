@@ -14,9 +14,6 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 ---
-
-## Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHariharan257&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHariharan257&layout=compact&theme=tokyonight" height="170"/>
