@@ -6,8 +6,6 @@
 ![](https://komarev.com/ghpvc/?username=SHariharan257&color=blue)
 
 ---
-## 🛠️ Technical Skills
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,git,vscode,linux" />
 </p>
