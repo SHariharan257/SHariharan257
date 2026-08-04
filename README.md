@@ -6,13 +6,16 @@
 ![](https://komarev.com/ghpvc/?username=SHariharan257&color=blue)
 
 ---
-
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,linux,html,css,vscode,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,vscode,linux" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Quantum%20Computing-6A0DAD?style=for-the-badge&logo=qiskit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
 ---
 
 ## 📊 GitHub Stats
